@@ -1,0 +1,1 @@
+conda create --name gan python=3.9
